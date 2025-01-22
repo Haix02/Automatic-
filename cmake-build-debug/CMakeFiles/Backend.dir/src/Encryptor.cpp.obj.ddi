@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles\\Backend.dir\\src\\Encryptor.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}
